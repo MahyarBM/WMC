@@ -26,3 +26,4 @@ OpenCode wurde erfolgreich installiert und kann über das Terminal gestartet wer
 
 ```bash
 opencode
+```
